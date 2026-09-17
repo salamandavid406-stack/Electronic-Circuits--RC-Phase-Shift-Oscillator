@@ -1,5 +1,5 @@
 # Electronic-Circuits--RC-Phase-Shift-Oscillator
-## AIM:
+## AIM: 
 To simulate a RC Pase Shift Oscillator and to verify the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
